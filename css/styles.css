@@ -6,6 +6,7 @@
     width: 100px;
 }
 
+
 .panda-btn {
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     color: #fff;
@@ -14,6 +15,16 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.panda-btns {
+    background-color: #FF136F;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
 
 .bag-2 {
     background-color: orchid;
